@@ -12,8 +12,7 @@ This repository contains E2E tests using Cypress for the web application [DemoBl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andresgranizo/devsu.git
-
+   git clone https://github.com/andresgranizo/CypressE2E.git
 2. Install Dependencies
    * npm install
    * npm install cypress --save-dev
@@ -32,7 +31,7 @@ Local Execution
    * Navigate to the product page.
    * Add the product to the cart.
    * Verify that the confirmation message is displayed.
-   * Verify products in cart:
+   * Verify products in cart.
 
 2. Navigate to the cart page.
    * Verify that the added products are present.
