@@ -1,6 +1,6 @@
 # E2E Tests
 
-[![CI](https://github.com/andresgranizo/devsu/actions/workflows/ci.yml/badge.svg)](https://github.com/andresgranizo/devsu/actions/workflows/ci.yml)
+[![CI](https://github.com/andresgranizo/CypressE2E/actions/workflows/ci.yml/badge.svg)](https://github.com/andresgranizo/CypressE2E/actions/workflows/ci.yml)
 
 This repository contains E2E tests using Cypress for the web application [DemoBlaze](https://www.demoblaze.com).
 
